@@ -1,3 +1,4 @@
 # 基于改进自适应大邻域搜索的低空物流空地协同配送优化研究
 Research on Air-Ground Collaborative Delivery Optimization for Low-Altitude Logistics Based on an Improved Adaptive Large Neighborhood Search
+
 基于2025年第三届中国智能交通创新挑战赛赛题组的10个算例进行验证，所提出的算法在60分制下总得分56.79，排名第四，二等奖。
